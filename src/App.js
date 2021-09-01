@@ -50,7 +50,7 @@ function App() {
     if (isNaN(val)) {
       val = 0;
     }
-    console.log("value: ", val);
+
     if (val <= maxValue) {
       setMinValue(val);
       setCounter(val);
