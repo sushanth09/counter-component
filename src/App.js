@@ -36,9 +36,12 @@ function App() {
 
   /* function to set counter when typing manually */
   const handleChange = (event) => {
+    console.log(event.target.value);
     let val = parseInt(event.target.value);
     if (val <= maxValue) {
       setCounter(val);
+    } else if (isNaN(val) || val === "") {
+      setCounter(NaN);
     }
   }
 
@@ -54,6 +57,7 @@ function App() {
     if (val <= maxValue) {
       setMinValue(val);
       setCounter(val);
+      setErrorMessage("");
     } else {
       setErrorMessage("Min value cannot be greater than Max value.");
     }
