@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/counter-component/static/css/main.81a12e24.chunk.css",
+    "main.js": "/counter-component/static/js/main.8072c5b4.chunk.js",
+    "main.js.map": "/counter-component/static/js/main.8072c5b4.chunk.js.map",
+    "runtime-main.js": "/counter-component/static/js/runtime-main.b805d2d5.js",
+    "runtime-main.js.map": "/counter-component/static/js/runtime-main.b805d2d5.js.map",
+    "static/js/2.bb6f1aac.chunk.js": "/counter-component/static/js/2.bb6f1aac.chunk.js",
+    "static/js/2.bb6f1aac.chunk.js.map": "/counter-component/static/js/2.bb6f1aac.chunk.js.map",
+    "static/js/3.90554527.chunk.js": "/counter-component/static/js/3.90554527.chunk.js",
+    "static/js/3.90554527.chunk.js.map": "/counter-component/static/js/3.90554527.chunk.js.map",
+    "index.html": "/counter-component/index.html",
+    "static/css/main.81a12e24.chunk.css.map": "/counter-component/static/css/main.81a12e24.chunk.css.map",
+    "static/js/2.bb6f1aac.chunk.js.LICENSE.txt": "/counter-component/static/js/2.bb6f1aac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/counter-component/static/media/Avenir Regular.b58b1b9c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b805d2d5.js",
+    "static/js/2.bb6f1aac.chunk.js",
+    "static/css/main.81a12e24.chunk.css",
+    "static/js/main.8072c5b4.chunk.js"
+  ]
+}
